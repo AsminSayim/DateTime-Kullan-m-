@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\DateTime-Kullanımı\DateTime-Kullanımı\bin\Debug\DateTime-Kullanımı.exe.config
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\DateTime-Kullanımı\DateTime-Kullanımı\bin\Debug\DateTime-Kullanımı.exe
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\DateTime-Kullanımı\DateTime-Kullanımı\bin\Debug\DateTime-Kullanımı.pdb
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\DateTime-Kullanımı\DateTime-Kullanımı\obj\Debug\DateTime-Kullanımı.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\DateTime-Kullanımı\DateTime-Kullanımı\obj\Debug\DateTime-Kullanımı.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\DateTime-Kullanımı\DateTime-Kullanımı\obj\Debug\DateTime_Kullanımı.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\DateTime-Kullanımı\DateTime-Kullanımı\obj\Debug\DateTime_Kullanımı.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\DateTime-Kullanımı\DateTime-Kullanımı\obj\Debug\DateTime-Kullanımı.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\DateTime-Kullanımı\DateTime-Kullanımı\obj\Debug\DateTime-Kullanımı.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\DateTime-Kullanımı\DateTime-Kullanımı\obj\Debug\DateTime-Kullanımı.exe
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\DateTime-Kullanımı\DateTime-Kullanımı\obj\Debug\DateTime-Kullanımı.pdb
